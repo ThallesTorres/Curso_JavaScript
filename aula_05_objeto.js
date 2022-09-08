@@ -17,8 +17,8 @@ let pessoa ={
     sobrenome,
     corSelecionada,
     cursoSelecionado:'Mecânico'
-}
+};
 
-console.log(pessoa)
-console.log(pessoa.nome)
-console.log(pessoa.cursoSelecionado)
+console.log(pessoa);
+console.log(pessoa.nome);
+console.log(pessoa.cursoSelecionado);
